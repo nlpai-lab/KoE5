@@ -1,7 +1,7 @@
 # KoE5: 한국어 특화 임베딩 모델
 
 ## Update Logs
-- 2024.10.02: [🤗KoE5]([url](https://huggingface.co/nlpai-lab/KoE5)), [🤗ko-triplet-v1.0](https://huggingface.co/datasets/nlpai-lab/ko-triplet-v1.0) 공개
+- 2024.10.02: [🤗KoE5](https://huggingface.co/nlpai-lab/KoE5)), [🤗ko-triplet-v1.0](https://huggingface.co/datasets/nlpai-lab/ko-triplet-v1.0) 공개
 
 ---
 
