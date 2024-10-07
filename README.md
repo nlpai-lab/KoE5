@@ -68,9 +68,9 @@ KoE5는 [intfloat/multilingual-e5-large](https://huggingface.co/intfloat/multili
 ### Metrics
 - NDCG@1, F1@1, NDCG@3, F1@3
 ### Benchmark Datasets
-- Ko-strategyQA
-- AutoRAG-benchmark
-- PublicHealthQA
+- [Ko-strategyQA](https://huggingface.co/datasets/taeminlee/Ko-StrategyQA)
+- [AutoRAG-benchmark](https://github.com/Marker-Inc-Korea/AutoRAG-example-korean-embedding-benchmark)
+- [PublicHealthQA](https://huggingface.co/datasets/xhluca/publichealth-qa)
 
 <br/>
 
